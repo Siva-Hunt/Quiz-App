@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# Secrets - NEVER upload!
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Old local SQLite database
+*.db
